@@ -39,3 +39,6 @@ DEFAULT_PAGINATION = 10
 
 THEME = "pelican-hss"
 STATIC_PATHS = ['extra', 'images']
+
+USER_LOGO_URL = 'https://pandas.pydata.org/static/img/pandas.svg'
+FAVICON = 'theme/images/pandas_logo_mark.svg'
